@@ -17,7 +17,9 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         {/* <div className={styles.description}></div> */}
+
         <DataTable />
+
         </main>
       </>
       )
